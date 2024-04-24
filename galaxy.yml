@@ -1,5 +1,5 @@
 ---
-namespace: "victoriametrics"
+namespace: "cloud_temple_victoriametrics"
 name: "cluster"
 version: "0.0.0"
 readme: "README.md"
